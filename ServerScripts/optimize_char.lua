@@ -1,3 +1,7 @@
+--delete all character parts besides the parts that are needed to keep player alive 
+
+
+
 local plrs = game:GetService('Players')
 
 plrs.PlayerAdded:Connect(function(plr)
